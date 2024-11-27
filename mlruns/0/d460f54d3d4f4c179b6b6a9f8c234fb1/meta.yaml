@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Fakhar-E-Iqbal/Desktop/MLOps/Chest-Cancer-with-MLFlow-DVC/mlruns/0/d460f54d3d4f4c179b6b6a9f8c234fb1/artifacts
+end_time: 1732689978617
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d460f54d3d4f4c179b6b6a9f8c234fb1
+run_name: able-perch-794
+run_uuid: d460f54d3d4f4c179b6b6a9f8c234fb1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732689975341
+status: 3
+tags: []
+user_id: Fakhar-E-Iqbal

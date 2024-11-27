@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Fakhar-E-Iqbal/Desktop/MLOps/Chest-Cancer-with-MLFlow-DVC/mlruns/0/a98f3b2092474a88820ef2e61c6a94af/artifacts
+end_time: 1732691869717
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a98f3b2092474a88820ef2e61c6a94af
+run_name: enthused-gull-409
+run_uuid: a98f3b2092474a88820ef2e61c6a94af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732691864600
+status: 3
+tags: []
+user_id: Fakhar-E-Iqbal

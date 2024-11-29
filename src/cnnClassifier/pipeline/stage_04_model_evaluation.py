@@ -16,10 +16,8 @@ class EvaluationPipeline:
         eval_config = config.get_evaluation_config()
         evaluation = Evaluation(eval_config)
         evaluation.evaluation()
-        print("\ncheck\n")
         evaluation.save_score()
-        print("\nchecked\n")
-        evaluation.log_into_mlflow()
+        # evaluation.log_into_mlflow()
 
 
 
